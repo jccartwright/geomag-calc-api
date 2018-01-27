@@ -1,0 +1,1 @@
+# geomag-calc-api
